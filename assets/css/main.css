@@ -1953,6 +1953,7 @@ header p {
 	font-family: 'Font Awesome 5 Brands';
 }
 
+
 .icon.style2 {
 	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -2824,30 +2825,6 @@ button:disabled,
 
 .tiles article>a .content> :last-child {
 	margin-bottom: 0;
-}
-
-.tiles article.style1>.image:before {
-	background-color: #f2849e;
-}
-
-.tiles article.style2>.image:before {
-	background-color: #7ecaf6;
-}
-
-.tiles article.style3>.image:before {
-	background-color: #7bd0c1;
-}
-
-.tiles article.style4>.image:before {
-	background-color: #c75b9b;
-}
-
-.tiles article.style5>.image:before {
-	background-color: #ae85ca;
-}
-
-.tiles article.style6>.image:before {
-	background-color: #8499e7;
 }
 
 body:not(.is-touch) .tiles article:hover>.image {
